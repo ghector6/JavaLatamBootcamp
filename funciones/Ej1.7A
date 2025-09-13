@@ -1,0 +1,4 @@
+String guessTheMovie(String e1, String e2, String e3){
+    return String.format("[%s, %s, %s]", e1, e2, e3);
+}
+guessTheMovie("😙","🥹","😀")
